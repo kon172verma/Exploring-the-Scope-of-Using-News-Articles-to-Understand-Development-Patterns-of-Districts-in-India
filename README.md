@@ -1,7 +1,8 @@
 # Exploring-the-Scope-of-Using-News-Articles-to-Understand-Development-Patterns-of-Districts-in-India
 > Authors: Mehak Gupta, Shayan Saifi, Konark Verma, Kumari Rekha, Aaditeshwar Seth
  
-> Link: https://arxiv.org/abs/2107.02765
+> Conference: [DSSG-21: The 3rd Workshop on Data Science for Social Good](https://amulyayadav.github.io/DSSG-21/)<br>
+> Research paper link: https://arxiv.org/abs/2107.02765
 
 ## Abstract
 Understanding what factors bring about socio-economic development may often suffer from the streetlight effect, of analyzing the effect of only those variables that have been measured and are therefore available for analysis. How do we check whether all worthwhile variables have been instrumented and considered when building an econometric development model? We attempt to address this question by building unsupervised learning methods to identify and rank news articles about diverse events occurring in different districts of India, that can provide insights about what may have transpired in the districts. This can help determine whether variables related to these events are indeed available or not to model the development of these districts. We also describe several other applications that emerge from this approach, such as to use news articles to understand why pairs of districts that may have had similar socio-economic indicators approximately ten years back ended up at different levels of development currently, and another application that generates a newsfeed of unusual news articles that do not conform to news articles about typical districts with a similar socio-economic profile. These applications outline the need for qualitative data to augment models based on quantitative data, and are meant to open up research on new ways to mine information from unstructured qualitative data to understand development.
